@@ -91,5 +91,7 @@ My interest in Manual Testing and fascination with automation processes make me 
   <img decoding="async" src="https://img.shields.io/badge/SOAPUI-6AAD3D?style=for-the-badge&logo=soapui&logoColor=white" alt="soapui"/>
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jphm95&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
