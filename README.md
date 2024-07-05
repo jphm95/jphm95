@@ -58,7 +58,7 @@ My interest in Manual Testing and fascination with automation processes make me 
 * I'm deepling my skills in API testing.
 * I'm continually improving my automation skills with Selenium WebDriver
 
-###  I love ...
+### 🩵 I love ...
 
 * I love traveling and discovering new places.
 * I enjoy the challenge of testing and ensuring high-quality software.
@@ -72,7 +72,7 @@ My interest in Manual Testing and fascination with automation processes make me 
 
 ---
 
-###  Languages:
+### 💻 Languages:
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -84,7 +84,7 @@ My interest in Manual Testing and fascination with automation processes make me 
 
 </div>
 
-###  Technologies:
+### 🖥️ Technologies:
 <div id="header" align="left">
   <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
   <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
