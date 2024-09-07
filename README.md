@@ -51,7 +51,7 @@ My interest in Manual Testing and fascination with automation processes make me 
 
 ### 🔭 I’m currently working on ...
 * Freelancer Tester at Test IO and uTest Plattaforms
-* As a QA, I'm colaborating in a voluntary and intensive internship at Not Country, working on a web project based on Python. (Soon more info...)
+* Testin Automation Project: Italotreno. The process for booking train tickets, and creating an account. (This is personal project to ensure my testing learning, not related to Italotreno company)
 
 ### 🌱 I’m currently learning ...
 
