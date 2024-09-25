@@ -94,7 +94,8 @@ I am also a professional pianist and the skills developed as a high-performance 
   <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
   <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   <img decoding="async" src="https://img.shields.io/badge/SOAPUI-6AAD3D?style=for-the-badge&logo=soapui&logoColor=white" alt="soapui"/>
-  <img decoding="async" src="https://img.shields.io/badge/Appium-1D4E89?style=for-the-badge&logo=appium&logoColor=white" alt="appium"
+  <img decoding="async" src="https://img.shields.io/badge/Appium-1D4E89?style=for-the-badge&logo=appium&logoColor=white" alt="appium"/>
+  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jphm95&theme=dark&background=000000)](https://git.io/streak-stats)
 
