@@ -45,8 +45,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :man_technologist: About Me :
-I am a professional pianist, and the skills developed as a high-performance musician—deep work, attention to detail, and patience—have been extrapolated to my passion for Testing.
-My interest in Manual Testing and fascination with automation processes make me a Hybrid QA.
+ I am a trilingual QA Engineer. (Spanish, English and German).
+ My interest in Manual Testing and  fascination with automation processes make me a Hybrid QA.
+ I have experience in testing UI, API (Postman and SOAP UI), mobile device Testing, and automation with Selenium and Appium in the languages Python and Java. 
+I am also a professional pianist and the skills developed as a high-performance musician—deep work, attention to detail, and patience—have been extrapolated to my passion for Testing.
+ I love how technology integrates into our daily lives, whether it's paying for a coffee with my phone or automating locator searches with Appium :)
 
 
 ### 🔭 I’m currently working on ...
