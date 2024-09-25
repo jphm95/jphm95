@@ -51,12 +51,14 @@ My interest in Manual Testing and fascination with automation processes make me 
 
 ### 🔭 I’m currently working on ...
 * Freelancer Tester at Test IO and uTest Plattaforms
-* Testin Automation Project: Italotreno. The process for booking train tickets, and creating an account. (This is personal project to ensure my testing learning, not related to Italotreno company)
+* Testing Automation Project: Italotreno. The process for booking train tickets, and creating an account. (This is personal project to ensure my testing learning, not related to Italotreno company)
+* Appium testing Project: ETN Android APP, with Android Studio I set an emulator for the tests. The script includes the process for booking bus tickets.
 
 ### 🌱 I’m currently learning ...
 
 * I'm deepling my skills in API testing.
 * I'm continually improving my automation skills with Selenium WebDriver
+* I'm continually improving my automation skills with Appium
 
 ### 🩵 I love ...
 
