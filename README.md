@@ -9,6 +9,13 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://www.notion.so/Portafolio-Juan-Pablo-Hern-ndez-Monter-QA-Engineer-26e432b1c83148e88cd480ea3fcf2280">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
+  </a>
+</div>
+
+
+<div id="badges" align="center">
   <img decoding="async" src="https://komarev.com/ghpvc/?username=jphm95&style=flat-square&color=blue" alt="Visitor Badge"/>
 </div>
 
