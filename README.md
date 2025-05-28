@@ -60,9 +60,9 @@ I am also a professional pianist and the skills developed as a high-performance 
 
 
 ### 🔭 I’m currently working on ...
-* Freelancer Tester at Test IO and uTest Plattaforms
-* Testing Automation Project: Italotreno. The process for booking train tickets, and creating an account. (This is personal project to ensure my testing learning, not related to Italotreno company)
-* Appium testing Project: ETN Android APP, with Android Studio I set an emulator for the tests. The script includes the process for booking bus tickets.
+* a1qa Functional QA Engineer Training
+* Improving Automation Skills
+* testRigor AI Automation Framework
 
 ### 🌱 I’m currently learning ...
 
