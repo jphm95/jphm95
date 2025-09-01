@@ -60,15 +60,15 @@ I am also a professional pianist and the skills developed as a high-performance 
 
 
 ### 🔭 I’m currently working on ...
-* a1qa Functional QA Engineer Training
+* I'm  Software Quality Assurance Intern in testRigor
 * Improving Automation Skills
 * testRigor AI Automation Framework
 
 ### 🌱 I’m currently learning ...
 
-* I'm deepling my skills in API testing.
+* I'm continually improving my automation skills with Playwright
 * I'm continually improving my automation skills with Selenium WebDriver
-* I'm continually improving my automation skills with Appium
+
 
 ### 🩵 I love ...
 
